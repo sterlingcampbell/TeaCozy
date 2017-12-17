@@ -13,6 +13,8 @@ body {
   flex-wrap: wrap;
 }
 
+/* For some reason, when I am starting web pages, they automatically start indented 8px on each side. Anyway to avoid this in the future, or am I causing the problem somehow? I corrected by just using a negative margin to fill the indent. Thanks for the help! */
+
 header {
   position: fixed;
   background-color: black;
