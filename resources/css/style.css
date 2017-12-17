@@ -51,13 +51,6 @@ nav span {
   width: 1200px;
 }
 
-#tea {
-  height: 700px;
-  width: 1000px;
-  padding-top: 70px;
-  margin: auto;
-}
-
 .item {
   padding: 5px;
 }
@@ -88,7 +81,9 @@ nav span {
 }
 
 #tea {
+  height: 700px;
   width: 1000px;
+  padding-top: 70px;
   margin: auto;
   display: block;
 }
